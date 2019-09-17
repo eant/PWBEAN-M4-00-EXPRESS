@@ -1,0 +1,19 @@
+{
+  "name": "pwbean-m4-00-express",
+  "version": "2.0.0",
+  "description": "Servidor Web hecho con Express y garra",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eant/pwbean-m4-00-express.git"
+  },
+  "author": "smessina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eant/pwbean-m4-00-express/issues"
+  },
+  "homepage": "https://github.com/eant/pwbean-m4-00-express#readme"
+}
